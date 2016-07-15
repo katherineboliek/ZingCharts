@@ -1,0 +1,22 @@
+{
+  "name": "zing-demo",
+  "version": "1.0.0",
+  "description": "This is a demo of ZingCharts. To view this demo, download the zip file and open move to the folder in the terminal. Using Node.js, type serve -p 3000 to see the application at localhost:3000.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katherineboliek/ZingCharts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katherineboliek/ZingCharts/issues"
+  },
+  "homepage": "https://github.com/katherineboliek/ZingCharts#readme",
+  "dependencies": {
+    "serve": "^1.4.0"
+  }
+}
